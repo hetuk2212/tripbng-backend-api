@@ -5,7 +5,7 @@ import {
     Register,
     Login,
     LoginVrfy
-} from "../controllers/Agent/agent.auth.controller.js"
+} from "../controllers/Agent/Agent.auth.controller.js"
 
 import { Router } from "express"
 
